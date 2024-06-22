@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "martins_mod:bloque_virgen"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "martins_mod:blocks/bloque_virgen"
+}

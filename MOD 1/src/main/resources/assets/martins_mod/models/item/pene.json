@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "martins_mod:item/pene_model"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "martins_mod:item/pene_model"
+    },
+    "ground": {
+      "parent": "martins_mod:item/pene_model"
+    },
+    "fixed": {
+      "parent": "martins_mod:item/pene_model"
+    }
+  }
+}

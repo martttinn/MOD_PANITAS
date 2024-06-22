@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "martins_mod:block/textura_bloque_virgen"
+  }
+}

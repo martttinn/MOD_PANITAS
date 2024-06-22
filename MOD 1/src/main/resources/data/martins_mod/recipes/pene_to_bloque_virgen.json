@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "martins_mod:pene"
+    }
+  },
+  "result": {
+    "id": "martins_mod:bloque_virgen",
+    "count": 1
+  }
+}

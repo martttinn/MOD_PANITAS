@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 100,
+  "experience": 9000,
+  "ingredient": {
+    "item": "martins_mod:pene"
+  },
+  "result":{
+    "id": "martins_mod:bloque_prepucio"
+  }
+}
